@@ -1,0 +1,74 @@
+@relation dataset
+
+@attribute http://www.w3.org/1999/02/22-rdf-syntax-ns# real
+@attribute http://purl.org/vocab/bio/0.1/ real
+@attribute http://www.w3.org/2004/02/skos/core# real
+@attribute http://purl.org/ontology/bibo/ real
+@attribute http://purl.org/NET/c4dm/event.owl# real
+@attribute http://xmlns.com/foaf/0.1/ real
+@attribute http://www.w3.org/2002/07/owl# real
+@attribute http://purl.org/dc/terms/ real
+@attribute http://www.bl.uk/schemas/bibliographic/blterms# real
+@attribute http://rdvocab.info/ElementsGr2/ real
+@attribute http://iflastandards.info/ns/isbd/elements/ real
+@attribute http://www.w3.org/2000/01/rdf-schema# real
+@attribute http://www.aktors.org/ontology/support# real
+@attribute http://purl.org/dc/elements/1.1/ real
+@attribute http://www.aktors.org/ontology/portal# real
+@attribute http://zeitkunst.org/bibtex/0.1/bibtex.owl# real
+@attribute http://purl.org/net/provenance/ns# real
+@attribute Unknown real
+@attribute http://data.linkedopendata.it/istat/resource/ real
+@attribute http://purl.org/linked-data/cube# real
+@attribute http://aemet.linkeddata.es/ontology/ real
+@attribute http://www.w3.org/2006/time# real
+@attribute http://purl.oclc.org/NET/ssnx/ssn# real
+@attribute http://www.openlinksw.com/schema/attribution# real
+@attribute http:/gwww.cnr.it/ontology/cnr/prodottidellaricerca.owl# real
+@attribute http://www.cnr.it/ontology/cnr/descrizionecommessa.owl# real
+@attribute http://www.openlinksw.com/schemas/RDF# real
+@attribute http://www.cnr.it/ontology/cnr/retescientifica.owl# real
+@attribute http://www.cnr.it/ontology/cnr/pubblicazioni.owl# real
+@attribute http://www.cnr.it/ontology/cnr/descrizioni.owl# real
+@attribute http://www.cnr.it/ontology/cnr/commesse.owl# real
+@attribute http://www.cnr.it/ontology/cnr/categorie.owl# real
+@attribute http://www.cnr.it/ontology/cnr/moduli.owl# real
+@attribute http://www.cnr.it/ontology/cnr/descrizionemodulo.owl# real
+@attribute http://www.cnr.it/ontology/cnr/descrizioneprogetto.owl# real
+@attribute http://www.cnr.it/ontology/cnr/strutturacnr.owl# real
+@attribute http://www.cnr.it/ontology/cnr/prodottidellaricerca.owl# real
+@attribute http://www.cnr.it/ontology/cnr/personale.owl# real
+@attribute http://www.openlinksw.com/virtdav# real
+@attribute http://www.cnr.it/ontology/cnr/suddivisioni.owl# real
+@attribute http://www.cnr.it/ontology/cnr/localizzazione.owl# real
+@attribute http://www.cnr.it/ontology/cnr/progetti.owl# real
+@attribute http://www.cnr.it/ontology/cnr/brevetti.owl# real
+@attribute http://www.cnr.it/ontology/cnr/brevettidipartimenti.owl# real
+@attribute http://www.cnr.it/ontology/cnr/istituti.owl# real
+@attribute http://www.cnr.it/ontology/cnr/descrizionedipartimento.owl# real
+@attribute http:/gwww.w3.org/1999/02/22-rdf-syntax-ns# real
+@attribute http:/gwww.w3.org/2002/07/owl# real
+@attribute http://www.openlinksw.com/schemas/Archive# real
+@attribute http://purl.org/linked-data/sdmx/2009/dimension# real
+@attribute http://linkedscotland.org/def/sns# real
+@attribute http://iflastandards.info/ns/fr/frad/ real
+@attribute http://www.loc.gov/mads/rdf/v1# real
+@attribute http://iflastandards.info/ns/fr/frbr/frbrer/ real
+@attribute http://metadataregistry.org/uri/profile/RegAp/ real
+@attribute http://rdvocab.info/RDARelationshipsWEMI/ real
+@attribute http://enipedia.tudelft.nl/wiki/ real
+@attribute http://semantic-mediawiki.org/swivt/1.0# real
+
+@data
+1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.15351604,3.4811685E-4,0.033078637,0.0395952,0.14625698,0.0047733085,0.07768616,0.27428672,0.08236893,2.3415315E-7,0.05174863,0.13634107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.19121668,0,0,0,0,0,2.4211877E-7,1.2105939E-7,0,0,0,2.4211877E-7,0.0012280263,8.4741566E-7,0.8075538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.12878083,0,0,0,0,0.53489995,0.0026756632,0,0,0,0,0,0,0,0,0.32794324,0.0057003256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.14305831,0,0.0012825702,0,0,3.3064453E-7,0,1.7854805E-5,0,0,0,2.843543E-5,0,2.9758007E-6,0,0,0,3.3064453E-7,0.7127172,0.142892,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.20275508,0,0,0,0,0,0.07999165,0,0,0,0,4.1351754E-8,4.1889325E-5,3.3494919E-6,0.7172079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.111156434,0,0,0,0,0,0,0,0,0,0,0.22206874,0,0,0,0,0,0,0,0,0.3331031,5.686249E-4,0.3331031,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.08586828,0,0.014061795,0,0,0,0.0016385034,0,0,0,0,0.09076312,0,0,0,0,0,0,0,0,0,0,0,7.6982105E-6,4.0516898E-7,0.010334645,7.2930416E-6,0.002191559,0.38875842,0.005112422,0.0058587436,0.09276911,0.0016757789,2.5160995E-4,2.6092882E-4,0.0013439455,0.16867428,0.10806181,7.2930416E-6,0.017786514,1.5517972E-4,8.281654E-4,0.002680598,6.9040793E-4,1.5517972E-4,5.3482305E-5,1.6206759E-6,8.1033795E-7,4.0516898E-7,0,0,0,0,0,0,0,0,0
+0.20009705,0,0,0,0,0,0,0,0,0,0,4.8527983E-4,0,0,0,0,0,0,0,0.19977354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.39954707,0.20009705,0,0,0,0,0,0,0
+0.12785666,0,0.037249282,0,0,3.445369E-8,0.01012227,0.061044328,0,0.017976748,0.48968902,1.6406848E-4,0,5.2025075E-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.007831634,0.017860983,0.22982879,5.4006163E-5,3.1699118E-4,0,0
+0.1732479,0,0.82673395,0,0,0,0,0,0,0,0,0,0,1.8130595E-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0.21725,0,0,0,0,0,2.5E-4,0,0,0,0,0.2375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1895,0.3555
